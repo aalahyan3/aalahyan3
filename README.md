@@ -30,7 +30,7 @@ $ echo $CONTACT
 me.a.alahyane@gmail.com
 
 $ fun_fact --random
-"Code" in Darija 🇲🇦 means "Password"
+"Code" in Darija means "Password"
 
 $ ps aux | grep skills
 JavaScript / TypeScript   running   [████████████████████] 90%
