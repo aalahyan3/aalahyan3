@@ -1,5 +1,5 @@
-```zsh
-$ huh
+```
+$huh
 bash: command not found: huh
 
 $ whoami
