@@ -1,3 +1,7 @@
+<img  src="https://media.licdn.com/dms/image/v2/D4E16AQEwhX3WDFayyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733077398486?e=1760572800&v=beta&t=hFnvMLqmXtvbg4SFfF9DuDalvmEos7H3CU4YawoKTj8" alt="Profile Pic" width="100%" height="auto"  />
+<details open>
+  <summary> Terminal</summary>
+
 ```
 $huh
 bash: command not found: huh
@@ -49,3 +53,29 @@ Git                       running   [██████████████�
 $ logout
 Connection to github.com closed.
 ```
+</details>
+<details>
+  <summary>GitHub Stats</summary>
+
+<p align="center">
+
+<!-- Overall GitHub stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=aalahyan3&show_icons=true&count_private=true&include_all_commits=true&theme=dark&title_color=5e52ff&icon_color=5e52ff&text_color=ffffff&bg_color=0d1117" 
+  alt="GitHub Stats" 
+  width="500"
+/>
+
+<br />
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalahyan3&layout=compact&theme=dark&title_color=5e52ff&text_color=ffffff&bg_color=0d1117" 
+  alt="Top Languages" 
+  width="500"
+/>
+
+</p>
+</details>
+
+
